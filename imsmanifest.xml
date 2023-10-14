@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6puf5m1g4OI" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">BTS Preparation Anglais</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="BTS_Preparation_Anglais_ORG">
+    <organization identifier="BTS_Preparation_Anglais_ORG">
+      <title>BTS Preparation Anglais</title>
+      <item identifier="test_test_SCO" isvisible="true" identifierref="__6puf5m1g4OI_RES">
+        <title>BTS Preparation Anglais</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6puf5m1g4OI_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6Wv0W7oEM1L.jpg" />
+      <file href="mobile/6HUnFczzRfp.png" />
+      <file href="mobile/5shOQhNphrq.png" />
+      <file href="mobile/6ItZYjMR5O4.png" />
+      <file href="mobile/5gN33QnyXG4.png" />
+      <file href="mobile/5kFXLO0ogm0.png" />
+      <file href="mobile/6pmJWRmdJwV.png" />
+      <file href="mobile/6fOL1hd9lzB.png" />
+      <file href="mobile/5kW23HJ7GVB.png" />
+      <file href="story_content/6JmJxgqlqWhx.js" />
+      <file href="story_content/6PlLa4h0FfSx.js" />
+      <file href="mobile/5f6v1YBL4aq_X.png" />
+      <file href="story_content/5jW6RvS7nJax.js" />
+      <file href="mobile/5kW23HJ7GVB_B-10_C-40_RG.png" />
+      <file href="mobile/5pyenrEbZZx_M_1100_1100.png" />
+      <file href="story_content/5jhbuMwwjeg.js" />
+      <file href="mobile/6OpcJeO71nv_C-40_RG.png" />
+      <file href="mobile/6nhA6swvUoc.png" />
+      <file href="mobile/5W7wY9Mt5cG.png" />
+      <file href="story_content/6Kbg8gZ2PLK_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5f1ahnV3e2g.js" />
+      <file href="html5/data/js/5j0aLe9YH5c.js" />
+      <file href="html5/data/js/5xcmynaS0Ro.js" />
+      <file href="html5/data/js/5xODjLatFiS.js" />
+      <file href="html5/data/js/63pYehK2tT6.js" />
+      <file href="html5/data/js/67T44uKLeGq.js" />
+      <file href="html5/data/js/6aqIWaK35n2.js" />
+      <file href="html5/data/js/6AxWfGVMRyc.js" />
+      <file href="html5/data/js/6GMbWIAwBAp.js" />
+      <file href="html5/data/js/6HVtERCzxI3.js" />
+      <file href="html5/data/js/6IvVGpuSAhI.js" />
+      <file href="html5/data/js/6K160RSx5ix.js" />
+      <file href="html5/data/js/6mcu605mUjH.js" />
+      <file href="html5/data/js/6R4awG6fDEi.js" />
+      <file href="html5/data/js/6RHOEFcEMMS.js" />
+      <file href="html5/data/js/6RkUsSwxtOl.js" />
+      <file href="html5/data/js/6rVP7QpPZK5.js" />
+      <file href="html5/data/js/6UGf91IiNQI.js" />
+      <file href="html5/data/js/6YtKU3bPCaE.js" />
+      <file href="html5/data/js/6Zpr0tms7U9.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/hls/hls.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
